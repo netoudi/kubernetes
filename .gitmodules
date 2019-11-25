@@ -1,0 +1,3 @@
+[submodule "golang"]
+	path = golang
+	url = https://github.com/netoudi/go-lang-gcp.git
